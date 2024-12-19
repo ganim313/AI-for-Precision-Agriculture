@@ -1,5 +1,5 @@
-AI-in-precision-Agriculture
-Goal
+## AI-in-precision-Agriculture
+# Goal
 I'm building a digital farm assistant that helps farmers make better decisions. Here's what it does:
 
 Crop Selection: Suggests which crops will grow best in your field based on your local weather and soil type.
