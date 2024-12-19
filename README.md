@@ -1,4 +1,4 @@
-# AI-in-precision-Agriculture
+# AI for precision Agriculture
 
 ## Goal
 I'm building a digital farm assistant that helps farmers make better decisions. Here's what it does:
